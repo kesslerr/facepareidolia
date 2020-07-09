@@ -1,0 +1,24 @@
+\begin{thebibliography}{1}
+
+\bibitem{zimmermann2019illusory}
+K.~M. Zimmermann, A.-S. Stratil, I.~Thome, J.~Sommer, and A.~Jansen, ``Illusory
+  face detection in pure noise images: The role of interindividual variability
+  in fmri activation patterns,'' {\em Plos one}, vol.~14, no.~1, p.~e0209310,
+  2019.
+
+\bibitem{carlotto1988digital}
+M.~J. Carlotto, ``Digital imagery analysis of unusual martian surface
+  features,'' {\em Applied Optics}, vol.~27, no.~10, pp.~1926--1933, 1988.
+
+\bibitem{howard2017mobilenets}
+A.~G. Howard, M.~Zhu, B.~Chen, D.~Kalenichenko, W.~Wang, T.~Weyand,
+  M.~Andreetto, and H.~Adam, ``Mobilenets: Efficient convolutional neural
+  networks for mobile vision applications,'' {\em arXiv preprint
+  arXiv:1704.04861}, 2017.
+
+\bibitem{yang2015facial}
+S.~Yang, P.~Luo, C.-C. Loy, and X.~Tang, ``From facial parts responses to face
+  detection: A deep learning approach,'' in {\em Proceedings of the IEEE
+  international conference on computer vision}, pp.~3676--3684, 2015.
+
+\end{thebibliography}
