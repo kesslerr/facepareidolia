@@ -1,7 +1,7 @@
 # face pareidolia
 Using computer vision to disentangle face paredolia.
 
-A short presentation of some first results is provided [here](http://github.com/kesslerr/facepareidolia/presentation/FacePareidoliaPresentation.pdf).
+A short presentation of some first results is provided [here](https://github.com/kesslerr/facepareidolia/blob/master/presentation/FacePareidoliaPresentation.pdf).
 
 ## stimuli
 
